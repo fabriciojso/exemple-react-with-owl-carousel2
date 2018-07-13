@@ -1,17 +1,15 @@
 import React, { Component } from 'react';
 import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel';
+
 const $ = window.$;
-
 class App extends Component {
-
-  constructor(){
-    super()
+  
+  componentDidMount(){
     $(document).ready(function(){
       $('.owl-carousel').owlCarousel();
     });
   }
-  
   render(){
     return (
       <div className="App">
