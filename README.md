@@ -1,4 +1,6 @@
 # Exemplo de uso da lib owlcarousel2 com o React.
+## Demonstração
+Para ver um exemplo de funcionamento, basta [clicar aqui](http://fabriciojso.github.io/exemple-react-with-owl-carousel2) :)
 
 ## Como incluir o jQuery no projeto?
 Basta ir no arquivo `/public/index.html` e incluir o `import`do jQuery no mesmo, exemplo:
