@@ -12,7 +12,7 @@ Basta ir no arquivo `/public/index.html` e incluir o `import`do jQuery no mesmo,
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
     <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
-    <title>Exemple</title>
+    <title>Exemplo</title>
   </head>
   <body>
     <div id="root"></div>
